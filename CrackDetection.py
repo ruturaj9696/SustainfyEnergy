@@ -34,3 +34,6 @@ for contour in contours:
 cv2.imwrite('Result.jpg', img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+
+
